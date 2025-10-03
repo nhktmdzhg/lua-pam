@@ -12,10 +12,10 @@ make
 
 ### Arch Linux
 
-The package [`lua-pam-git`](https://aur.archlinux.org/packages/lua-pam-git/) can be installed from the Arch Linux User Repository using the following command. The command assumes your package manager is `yay`.
+The package [`lua53-pam-git`](https://aur.archlinux.org/packages/lua53-pam-git/) can be installed from the Arch Linux User Repository using the following command. The command assumes your package manager is `yay`.
 
 ```
-yay -S lua-pam-git
+yay -S lua53-pam-git
 ```
 
 The file `liblua_pam.so` is installed into `/usr/lib/lua-pam/`.
