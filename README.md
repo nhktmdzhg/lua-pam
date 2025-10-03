@@ -18,7 +18,7 @@ The package [`lua53-pam-git`](https://aur.archlinux.org/packages/lua53-pam-git/)
 yay -S lua53-pam-git
 ```
 
-The file `liblua_pam.so` is installed into `/usr/lib/lua-pam/`.
+The file `liblua_pam.so` is installed into `/usr/lib/lua/5.3/`.
 
 ## Usage
 ```lua
